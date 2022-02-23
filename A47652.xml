@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elixyrlogia, or, A compendious discourse wherein the eminent and effectual virtues and properties of the universal elixyr are set forth not only for the particular use of them that would prevent the contagion of the plague ... but for the general cure, remedying, and certain prevention of most acute diseases incident to mankind ... : with the manner of taking it ... and a rational accompt how it may certainly conduce to the prolonging of life if medically administred in a little quantity every morning to an empty stomach / by Theod. Le Medde, M.D.</title>
+            <author>Le Medde, Theod.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47652</idno>
+            <idno type="STC">Wing L1037</idno>
+            <idno type="STC">ESTC R41364</idno>
+            <idno type="EEBO-CITATION">31355188</idno>
+            <idno type="OCLC">ocm 31355188</idno>
+            <idno type="VID">110340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1744:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elixyrlogia, or, A compendious discourse wherein the eminent and effectual virtues and properties of the universal elixyr are set forth not only for the particular use of them that would prevent the contagion of the plague ... but for the general cure, remedying, and certain prevention of most acute diseases incident to mankind ... : with the manner of taking it ... and a rational accompt how it may certainly conduce to the prolonging of life if medically administred in a little quantity every morning to an empty stomach / by Theod. Le Medde, M.D.</title>
+                  <author>Le Medde, Theod.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Eversden ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped with loss of text.</note>
+                  <note>Advertisements: p. [24]-[25].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patent medicines.</term>
+               <term>Advertising --  Drugs --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110340:1" rendition="simple:additions"/>
+            <p>Elixyrlogia: OR A Compendious Diſcourſe, wherein the Eminent and Effectual Virtues and Pro<g ref="char:EOLhyphen"/>perties of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal ELIXYR</hi> are ſet forth: Not only for the particular Uſe of them that would prevent the Contagion of the PLAGUE, (ſo far as Art and Medicine can reach) but for the general Cure, Remedying, and certain Prevention of moſt Acute Diſeaſes Incident to Mankind: Together with common and daily Accidents (ter<g ref="char:EOLhyphen"/>rible in themſelves) which outwardly happen, and are often accompanied with Death, if not prevented.</p>
+            <p>With the manner of Taking it; the Time when; and how Outwardly to be Applyed when the Diſtemper is without.</p>
+            <p>And a Rational Accompt how it may certainly Conduce to the prolonging of Life, if Medically Ad<g ref="char:EOLhyphen"/>miniſtred in a little quantity every Morning to an empty Stomach.</p>
+            <p>By THEOD. Le MEDDE, M D.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Eve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſden</hi> at the <hi>Greyhound</hi> in St. <hi>Pauls</hi> Church-yard, 1665.</p>
+         </div>
+         <div type="author_to_lady_reader">
+            <pb facs="tcp:110340:2"/>
+            <pb facs="tcp:110340:2"/>
+            <head>To the English Lady.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>MEn Quack to get money (I doubt you'l ſay ſo of me too when you come to the laſt page) Gentle<g ref="char:EOLhyphen"/>women do good <hi>gratis,</hi> &amp; like the <hi>Samaritan</hi> when they have poured in Wine and Oil, and bound up the ſores of the wounded give Money to the relief of the Sick; of ſuch there are ſeveral perſons in this Kingdom of Ho<g ref="char:EOLhyphen"/>nourable Degree, who are alſo ſo good proficients in the Therapeutick, or Curative part of Phyſick, that without a ſtrein we may term the daughters of <hi>Apollo</hi> &amp; <hi>Co<g ref="char:EOLhyphen"/>ronis.</hi> I may ſeem then to ſupererrogate in offering this (though a choyce Medicine) when they are furniſhed with Medicines, apt for all intentions; yet Madam, how well ſo ever you are provided, let me add this one to your ſtore, and if you find it not as efficatious as is pretended in the Title-page, let me be blamed for impertinence; Untill then ſuſpend that cenſure upon, Madam,</p>
+            <closer>
+               <signed>Your Ladyſhips moſt humble ſervant, <hi>Le Medde.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:110340:3"/>
+            <head>Elixyrlogia.</head>
+            <p>THere is an Herb which is called <hi>Panax,</hi> 'tis a Greek word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>quaſi</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an Herb which healeth all Diſeaſes: That the due uſe of this Herb produceth health to all that uſe it, let the world judge: But let us underſtand the Etymoligers aright, and take their meaning, which was this, becauſe this ſimple was of good Medicinal uſe, and proper in many caſes; they called it <hi>Panax</hi> or <hi>All-heal.</hi>
+            </p>
+            <p>For better reaſon do we put this Epithete upon our <hi>Elixyr,</hi> and call it <hi>Univerſal,</hi> not that it will Cure all Diſeaſes whatever mans body may be the ſubject off; but that it is abſolutely proper for preſervation from all malign Contagion, and of great and effectual uſe in the general Cure of malign Diſtempers, and ſeveral accidents which daily happen to mankind. I know there be, and have been, ſome who pretend to a Compleat <hi>Pa<g ref="char:EOLhyphen"/>nacea,</hi> or <hi>Univerſal Medicine;</hi> but with what de<g ref="char:EOLhyphen"/>ceipt, their imperfect cures (and by its uſe and ad<g ref="char:EOLhyphen"/>miniſtration ſometimes worſe rendred) do de<g ref="char:EOLhyphen"/>clare. That which in ſhort is here promiſed is, That we would not ſo mueh as ſeem to pretend to more then can be made good; neither will it be con<g ref="char:EOLhyphen"/>venient
+<pb n="5" facs="tcp:110340:3"/>
+to give this Medicine its utmoſt due Enco<g ref="char:EOLhyphen"/>mium, leaſt we flatter the vulgar ſort into the be<g ref="char:EOLhyphen"/>leif of working wonders (as is the uſual Cuſtome of Pamphleteers) which is not here intended, but the bare knowledge of the truth.</p>
+            <p>Having given you the reaſon why this Medicine without injury to the truth, in that it is of abſo<g ref="char:EOLhyphen"/>lute uſe in the Cure of all malign and venemous Diſeaſes, and of effectual uſe, in the general Cure of other Diſtempers not malign, with other acci<g ref="char:EOLhyphen"/>dents, in themſelves terrible, and often accompani<g ref="char:EOLhyphen"/>ed with death, if not prevented, ſuch as Gangreens, Bitings of Venemous beaſts, &amp;c.) is termed <hi>Uni<g ref="char:EOLhyphen"/>verſal,</hi> it will be needful in order to diſpoſe what theſe Diſeaſes are that it is moſt effectual againſt.</p>
+            <p>To all malign Contagion, and venene or poiſo<g ref="char:EOLhyphen"/>nous qualities (whether ariſing from putrefaction, and ſo bred within the body, or conveyed to it in<g ref="char:EOLhyphen"/>ſenſibly by malign Contagion, or ſenſibly by ex<g ref="char:EOLhyphen"/>ternal inſtruments, as the Bitings of Venemous creatures) it is the moſt proper and powerful Anta<g ref="char:EOLhyphen"/>goniſt or adverſary to be uſed by way of preventi<g ref="char:EOLhyphen"/>on, or expulſion of Infection, poiſon or poiſonous qualities received.</p>
+            <p>To prevent malign contagion, there are appoint<g ref="char:EOLhyphen"/>ed by Authors Medicines of vertue Antidotal to be uſed externally and internally. The externall to be hung about the body, or ſo conveniently pla<g ref="char:EOLhyphen"/>ced that by the heat of the body, their vertue may be exhal'd, (or being by an innate quality effluvi<g ref="char:EOLhyphen"/>ous of themſelves, as Gums, Spices, Herbs, Roots, &amp;c. for the altering and correcting the ambient air (that which is continually about us) drawn into
+<pb n="6" facs="tcp:110340:4"/>
+the mouth and noſtrils, and ſo into the Lungs: Theſe they call <hi>Amulets</hi> by a general name; and were compounded of many bodies, as <hi>Pomanders;</hi> or Simple, as ſome ſorts of pretious ſtones, <hi>Amber, Mercury, Arſenic,</hi> &amp;c.</p>
+            <p>That <hi>Amulets</hi> are of uſe is not to be diſputed, but it may be a queſtion whether theſe Minerals ſhut up within their intranſpirable Occluders, do eradiate or beam forth ſpirituous Vapours; if they do not, what uſe can they be of, if they be placed about, or born about the body, and do emit or ſend forth any ſpirituous and thin parts, we may ſuppoſe them of ill conſequence: But be<g ref="char:EOLhyphen"/>ing placed about the body, if their ſpirits emitted, could be made friendly to ours, but in reaſonable proportion of <hi>Homogenitie,</hi> they might be of excel<g ref="char:EOLhyphen"/>lent uſe when the cauſe is <hi>ab extra.</hi> That Roots, Herbs, <hi>Pomanders,</hi> &amp;c. are of good uſe to ſalubri<g ref="char:EOLhyphen"/>ate the Air while they are held to or about the Noſe, we doubt not, but held or placed, or carried at a diſtance alter it not to our purpoſe.</p>
+            <p>Theſe are neat and cleanly things, and take with all; I wiſh they were as effectual.</p>
+            <p>But if you would uſe an external Medicine as a preſervative againſt Infectious Air at any time or upon any occaſion, (not that you are adviſed to re<g ref="char:EOLhyphen"/>ly in an Internal or External Antidote, onely to uſe them as the lawful means) one ſhall be com<g ref="char:EOLhyphen"/>mended to be uſed in form of an Ointment, it is but a plain Medicine, think of it as you pleaſe, the efficacy of it is known; The Ingredients are <hi>Brim<g ref="char:EOLhyphen"/>ſtone</hi> poudered very fine, or rather the flower of <hi>Brimſtone,</hi> freſh <hi>Lard,</hi> or <hi>Butter,</hi> Oil of <hi>Elecampane,</hi>
+               <pb n="7" facs="tcp:110340:4"/>
+with the addition of a little of the Chymical Oil of <hi>Wormwood;</hi> There is a common Medicine in the countrey made of <hi>Brimſtone</hi> and <hi>Cream,</hi> its uſe is known to all; The perſon that uſeth this Oint<g ref="char:EOLhyphen"/>ment, is perceived at a diſtance, by reaſon that the <hi>Brimſtone</hi> being heated by the body, its ſpirits are drawn out, and mixing themſelves with the Air are drawn (with the Air) into the bodies of them that are ſtanders by, who perceive it, and are apt to ſay that there is a ſtinck of <hi>Brimſtone,</hi> and ſo peo<g ref="char:EOLhyphen"/>ple are apt to ſay of other things, whoſe Odours are healthful and reſiſt putrefaction, when in as pro<g ref="char:EOLhyphen"/>priety we are only to attribute ſtinches to thoſe bodies whoſe Odours are unwholeſome and pro<g ref="char:EOLhyphen"/>mote putrefaction. But the <hi>Camphire</hi> and Oil of <hi>Wormwood,</hi> added in their due proportion, as they add to the efficacy of the Medicine, ſo they render it not unacceptable, but grateful to the Brain; rub it upon the Breaſt, Arms, and Thighs, and you may truſt to it as to a Medicine or Anti<g ref="char:EOLhyphen"/>dote External againſt Infectious Air, at any time, and for other uſes.</p>
+            <p>Their outward preſervatives you have been told, and their uſe.</p>
+            <p>The Internal Medicines are Gallenical or Chymical; The Gallenical are Confections, as Methridate; The Treacles, (of late invention) the London Treacle, Diateſſaron, Bezoardick-wa<g ref="char:EOLhyphen"/>ters. Simples, as Gumms, Herbs and Roots, ſuch as to inſtance a few, <hi>Myrh, Aloes,</hi> &amp;c. <hi>Rue, Worm<g ref="char:EOLhyphen"/>wood, Maſterwort, Gentian, Ariſtiloch,</hi> &amp;c. The Chymical <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Antidotus <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Quercit. Elix. Prop.</hi> with many others; the mineral prepa<g ref="char:EOLhyphen"/>rations
+<pb n="8" facs="tcp:110340:5"/>
+as they are nimble in their operations, and do good things when they hit on't, being of them<g ref="char:EOLhyphen"/>ſelves poiſonous and adverſe to our natures, unleſs duly prepared by art, become not Antivenal or ef<g ref="char:EOLhyphen"/>fectual againſt poiſon, therefore with great care to be adminiſtred by grains and drops, that the Doſe be not exceeded; cannot be taken with that cou<g ref="char:EOLhyphen"/>rage by the Patient, as thoſe Medicines which un<g ref="char:EOLhyphen"/>prepared are not unwholeſome, nor in no ſort de<g ref="char:EOLhyphen"/>ſtructive to our natures. The Galenical Medicines abovementioned, that they are good and profitable all do allow, but being Harſh, Groſs, and Nauſe<g ref="char:EOLhyphen"/>ous, to Squeamiſh Stomachs, and to moſt Eſpecia<g ref="char:EOLhyphen"/>lly being ſick, in ſo much that the ſmel doth much offend many, but much more the taſte (as that of <hi>Methridate,</hi> or any of the Treacles) that when tis as it were forced down by a mans reaſon tis forced up again.</p>
+            <p>The conſideration of which hath given occaſion to ſome to endeavour ſome neat Preparations of moſt eminent efficacy againſt moſt Diſtempers whereunto man is commonly ſubject, well taſting, not at all Nauſeating the Stomach, (unleſs the very name offend, for divers are obſerv'd to ſpit at the very nameing of Phyſick) and indeed nothing more grateful and friendly; Such as is this our <hi>Univer<g ref="char:EOLhyphen"/>ſal Elixyr</hi> or <hi>Spirituous Liquour</hi> (a Medicine ha<g ref="char:EOLhyphen"/>ing in it the Quinteſcence or the pureſt parts of its Ingredients, which is eſſentiated with the moſt powerful and effectual reſiſters of Putrefaction and Malignity.</p>
+            <p>Now thoſe things that are moſt adverſe to our natures are poiſons, or poiſonous qualities (which as Authors ſay; are occult rnd hidden, and there is
+<pb n="9" facs="tcp:110340:5"/>
+reaſon ſo to think, for if they were not hid from our underſtanding, poſſibly ſomething might be found out not only to encounter, but to overcome them (oftner then is uſual) with Medicine: More<g ref="char:EOLhyphen"/>over as theſe enemies to nature are occult, we may conclude they are of exquiſite thin parts: you may alſo believe that thoſe things we take into our bo<g ref="char:EOLhyphen"/>dies, to expel poiſons, ſhould be of quality pro<g ref="char:EOLhyphen"/>portionable to their Antagoniſts, and be indued with rare and tenuious parts, and heat alſo; which may beget this objection in ſome that do not ſo well underſtand how Venene and Malign Di<g ref="char:EOLhyphen"/>ſtempers, which are for the moſt part accompanied with intenſe heat) can be cured by Medicines that are hot, becauſe in the general practice of Phyſick, contraries are cured by their contraries, which is that; As to thoſe who (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or natural temper) are hot and dry; to ſuch <hi>Cordiack</hi> refrige<g ref="char:EOLhyphen"/>rants; to the contrary temper, <hi>Cale facients</hi> are ap<g ref="char:EOLhyphen"/>propriate. But in malig'n and venemous Diſeaſes which are alwaies accompanied with heat, Cool<g ref="char:EOLhyphen"/>ers tho' Cordial, are leſs uſeful if not altogether improper; but thoſe Medicines that are found by experience to be moſt prevalent and ought to be placed in the front in defence of the ſpirits which are in danger of being overcome by their aſſailants, whoſe qualities tho hid, yet furious and impetuous, are Medicins of vigorous Warmth, Heat and Acti<g ref="char:EOLhyphen"/>vity, as are all true and effectual <hi>Alexapharmacaes,</hi> or Medicines having power and vertue ſeated in them (by the Author of all vertue) to cure and ex<g ref="char:EOLhyphen"/>pell poiſon, and Diſeaſes of venemous qualities. That this is ſo, the examination of the qualities of
+<pb facs="tcp:110340:6"/>
+the ſimples that are in compoſitions accompted <hi>Specifick</hi> in this caſe, will inform the doubtful. That Medicines, that are proper to cure malig'n Diſeaſes are hot, we may believe our own taſt, that this our <hi>Univerſal Elixyr</hi> is hot, your own ſence will tell you, that it is not too hot, your own ex<g ref="char:EOLhyphen"/>perience after you have taken a little quantity; may inform you: That it is familiar to Nature and a<g ref="char:EOLhyphen"/>greeable to the Stomach, and not at all too hot and may indifferently be taken by all, do but once be<g ref="char:EOLhyphen"/>lieve the word of a ſtranger. I ſhall ſpeak but a word or two, of two or three of the Ingredients of this <hi>Univerſal Medicine</hi> (wherein there is not a few) and then ſhall ſhew you how to uſe it. At my being in <hi>India An.</hi> 45. where I obſerved the Pagans practice and adminiſtrations in deſparate caſes, high Feavers, Impoiſonings, &amp;c. I found they dealt much in ſimples, and learning their uſu<g ref="char:EOLhyphen"/>all Doſe, which was but little in quantity, I ſup<g ref="char:EOLhyphen"/>poſed them of ſoveraign vertue to produce ſo good effects, ſo ſpeedily; taſting of them, I was confirmed in my opinion; ſince that time the continual uſe of them (in many dangerous caſes) by here and there one that underſtood their property, hath rendred e<g ref="char:EOLhyphen"/>vents as proſperous as Naturall cauſes could allow.</p>
+            <p>Some others of much longer date in <hi>Europe,</hi> yet not of ſo frequent uſe in the practice of Phy<g ref="char:EOLhyphen"/>ſick as there (ſhall I ſay) inaeſtimable worth doth deſerve.</p>
+            <p>I ſhall now proceed to ſhew you how, and in what manner it is to be taken as a preſervative. Im<g ref="char:EOLhyphen"/>mediatly before you go abroad in the Morning, take
+<pb n="11" facs="tcp:110340:6"/>
+half a Spoonful of this (it is to be underſtood that if you do not go forth you are to take it, either be<g ref="char:EOLhyphen"/>fore or after you have eaten what you intend) and at night when you go to bed. The ſame quantity you may take at any time of the day, if your buſineſſe leads you into company or place ſuſpi<g ref="char:EOLhyphen"/>tious. This ſmall quantity having in it the purer part (call it Eſſence or what you will) of what can be imagined to be proper and effectual in a very little and not unpleaſing draught we take into our mouths, where we let it remain a very little while (which we ought to do when we take it as a pre<g ref="char:EOLhyphen"/>ſervative from Contagion) before it paſſeth down the throat into the Stomach; now as it paſſeth a<g ref="char:EOLhyphen"/>long it leaves its flavour by the way, ſo that the Air received into the body, as it is receiving and drawing in, receives alteration and notable correcti<g ref="char:EOLhyphen"/>on by vertue of the impreſſion obtained in its ſtay and while tis ſwallowing down the throat: when it is come into the Stomach, being of ſpirituous &amp; thin parts, it is immediatly conveighed to the Neighbouring parts, into the Lungs by tranſmeati<g ref="char:EOLhyphen"/>on, and then to the heart, which it makes robuſt to keep off any poyſonous vapour; and if it be drawn in, mixt with the Air, preſently it expels the ſame, before the ſpirits be affected, which if they once be, ſoon begin to diſſipate and ſcatter abroad.</p>
+            <p>The uſe of the External Antidotes is (in ſhort) to correct the Air of the inward Antidotes or expel<g ref="char:EOLhyphen"/>lers of poiſon, to ſtrengthen the Heart &amp; Spirits. That the taking of this <hi>Spirituous Liquor,</hi> two, three or four times a day (if you have occaſion ſo oft to do it) is ſupplemental to all inward and outward
+<pb facs="tcp:110340:7"/>
+Antidotes you can think of, is not improbable; for as I ſaid before, the impreſſion it leaves in th'mouth and throat, corrects the Air drawn into the Lungs; and when it arrives in the Stomach, it becomes a powerful Cordial, or Antidote, Corroborating and ſtrengthning the ſpirit, enabling them to riſe up againſt their mortal foes; ſuch are all poiſons, poiſonous, and malign qualities.</p>
+            <p>Shall I tell you what commendation <hi>Rufus</hi> (an ancient Phyſitian gave of a preparation of <hi>Myrrh, Aloes, Ammoniac</hi> and <hi>Wine,</hi> a bitter yet wholeſome Medicine, <hi>haud novi qui hoc potu non ſuperraverit Peſtem,</hi> ſpeaking as if that Medicine was of ſuch efficacy, that he ſcarce knew the man that took it once a day but did overcome the Sickneſs. It is not my buſineſs to Eulogize, or commend, what is here treated on. I think I ſaid before by way of Caution, that none ought wholly to rely upon any Medicine whatever; but that we uſe all lawful means is our duty; that we uſe the moſt ef<g ref="char:EOLhyphen"/>fectual is our diſcretion; <hi>That this is,</hi> I' leave to the cenſure of opinion, ſeeing it wholly conſiſts of the vertue of thoſe Ingredients, whoſe property is Specifickly &amp; intenſly adverſe to all poiſon, and by an innate quality does naturally expel all Venene and malign qualities.</p>
+            <p>I ſhall only add thus much, that it ſtands to very good reaſon that thoſe that receive into their bo<g ref="char:EOLhyphen"/>dyes thoſe Antidotes that have power given them from the Almighty to reſiſt, withſtand, and expel poiſon, ſhould be in a better condition then thoſe that leave the tuition of their health, only to the ſtrength of Nature.</p>
+            <p>
+               <pb n="13" facs="tcp:110340:7"/>So much ſhall ſuffice for the efficacy of this Medicine touching preſervation from Contagion, or Infectious Air; I ſhall now proceed to its uſe in caſe of Infection, or ſuſpition of Infection: It will be firſt convenient to acguaint you, what are the moſt uſual ſigns, whereby Infection may be ſuſpected.</p>
+            <p>The ſymptoms, Accidents that attend, are not unlike the ſigns of ſome other Acute Feavers, but uſually more furious; They are theſe, <hi>Pain in the Head; in the Back, and Loines; Sickneſs in the Stomach; Vomiting, Giddineſs, Trembling; Shi<g ref="char:EOLhyphen"/>vering and Chilneſs over the body,</hi> with ſome others.</p>
+            <p>When any of theſe happen, eſpecially in ſickly times, defer not going to bed; but firſt of all, if your Stomach be offended at any thing you have taken, and you incline to Vomit, forward it what you can; when you are thus free from what of<g ref="char:EOLhyphen"/>fended your Stomach, then being in your bed, diſpoſe your ſelf to Sweat as ſoon as you can; which that you may do to the purpoſe, help na<g ref="char:EOLhyphen"/>ture with this <hi>Antipharmack,</hi> and take about two ſpoonfulls of it by its ſelf, if you pleaſe, and to chuſe if you are rather chill, then hot; but it you be very hot put to it of Juyce of <hi>Citrons,</hi> Lemons, Orenges, Juyce of Sorrel clarified, Elder Vine<g ref="char:EOLhyphen"/>gar, Roſe Vinegar, as much as will ſour it well; or you may take it in a draught of Sorrel, or Le<g ref="char:EOLhyphen"/>mon Poſſet; (Sage and <hi>Carduus</hi> Poſſet are not a<g ref="char:EOLhyphen"/>miſs) when you begin to Sweat, drink of either of the Poſſet-drinks well warm'd, and Sweat plenti<g ref="char:EOLhyphen"/>fully; when yon have Sweat as much as is judg'd
+<pb n="14" facs="tcp:110340:8"/>
+convenient, cool by degrees, and when you have reſted three or four hours, if your Diſtemper be removed, and as you perceive, quite gone, ſweat no more that day; but if the Diſtemper be rather increaſed, after you have taken the quantity of two ſpoonfulls or thereabouts, the next time take three, and Sweat again, and the third time with three, or if there be occaſion, four ſpoon<g ref="char:EOLhyphen"/>fulls,</p>
+            <p>In caſe of Infection ſweat thus three times in 24 hours, reſting between whiles; if ſtrength would ſuffer, a good breathing ſweat ſo long to<g ref="char:EOLhyphen"/>gether would be very effectual. The next day as ſoon as ſtrength permits ſweat again, taking as much of this as you find expedient, and ſo for four or five days together, untill (if it be poſſible) the malignity be ſpent wholly in ſweating (ſweat<g ref="char:EOLhyphen"/>ing is the only means that helps nature in this caſe) or thruſt out into ſwellings, which if they prove kindly, ripen with ordinary means.</p>
+            <p>But if the Diſtemper for which you took this Antidote wholly remove, you need not take it the ſecond time.</p>
+            <p>In the beginning of this Diſcourſe, I told you that this <hi>Elixyr</hi> was the proper Antagoniſt to ma<g ref="char:EOLhyphen"/>lignity, whether inſenſibly conveighed to the bo<g ref="char:EOLhyphen"/>dy by Infection or ſenſibly by external Inſtru<g ref="char:EOLhyphen"/>ments, as the bitings of Venemous Creatures, which is the next thing in order to be ſpoken to.</p>
+            <p>What great affinity there is betwixt the poiſon conveighed by the wounds inflicted by Venemous Creatures, and the poiſon of thoſe occult thana<g ref="char:EOLhyphen"/>topherous,
+<pb facs="tcp:110340:8"/>
+and killing qualities in malignant Di<g ref="char:EOLhyphen"/>ſeaſes, ſhall not here to be handled. The method uſed in cure, nor the Medicines appointed by the Learned Antients were not much unlike, where we find the King of <hi>Pontus</hi> his confection, I mean <hi>Methridate</hi> in uſe, (although a Medicine frequent amongſt us, yet not to be diſeſteemed; The Trea<g ref="char:EOLhyphen"/>cles, <hi>Electuar. Orv. Dieteſſaron dictamn. Gentiana, Ariſtoloch, St. Johns-wort,</hi> &amp;c. with many others which are uſed to this day, and that with good ſuc<g ref="char:EOLhyphen"/>ceſs: you need not then wonder that I direct the <hi>Univerſall Elizyr</hi>) tho' there is not in this Medi<g ref="char:EOLhyphen"/>cine one grain of <hi>Methridate,</hi> nor any other of the above recited) for cure Internal of poiſon ſo com<g ref="char:EOLhyphen"/>municated.</p>
+            <p>To any one that is hurt by a Venemous Crea<g ref="char:EOLhyphen"/>ture give a ſpoonful thereof with ſome Juyce of <hi>Citrons</hi> (which is beſt) Lemons or Orenges, and let him ſweat reaſonably; how often you will find occaſion to do it, the preſent occaſion muſt inform you; to the part that is hurt do as you ſhall be directed when you come to the ontward uſe of it.</p>
+            <p>As malignity may be communicated by Infecti<g ref="char:EOLhyphen"/>on.</p>
+            <p>So it may be generated within the body by pu<g ref="char:EOLhyphen"/>trefaction, and that two ways.</p>
+            <p n="1">1. By taking too great a quantity of meats (tho' affording good nouriſhment) or drinks, into the Stomach, which cannot be digeſted by its heat; from indigeſtion, ariſes putrefaction; from putre<g ref="char:EOLhyphen"/>faction malignity.</p>
+            <p n="2">2. By the eating of thoſe things which natural<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:110340:9"/>
+have propenſity to corruption; to give you but a familiar inſtance, Melons, Cucumbers, &amp;c. The Diſtempers ariſing from replition, &amp;c. generally called Surfeits.</p>
+            <p>When it ſo falls out that you have eaten too much, whether of meats, or fruits, and you find your Stomach ſomewhat burthened (rather then run the hazzard of a poſſibility that nature may overcome what you have eat) cauſe what you have eat to be brought up the ſame way it went down, then take half a ſpoonfull, or ſomewhat more, if you find it convenient; and if you find your ſelf ill, gently ſweat, and tis likely you may hear no more of it. In caſe you cannot eaſily Vomit, take the like quantity, and it will forward nature to digeſt what you have taken.</p>
+            <p>After the eating of any Cold or Windy Fruits, or meat, a little quantity hereof will profit you not a little.</p>
+            <p>In defect of the ſpirits, whence happen ſwoon<g ref="char:EOLhyphen"/>ings, faintings, and a diſtillation or ſcattering of the ſpirits; in this caſe this is the moſt appropriate Cordial.</p>
+            <p>Heavineſs about the Heart, often ariſing from grief and other cauſes, it removes.</p>
+            <p>Pain in the Stomach, cauſed by Wind, and Crudityes; it not only helps but removes the cauſe.</p>
+            <p>Pain in the Stomach by tough and Cold Hu<g ref="char:EOLhyphen"/>mours it eaſeth, and attenuates them for expul<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>Wind in the bowels it expells effectually.</p>
+            <p>The pain in the belly, if ariſing from a Cold
+<pb facs="tcp:110340:9"/>
+cauſe it wholly removes.</p>
+            <p>Inconcoction, uſually proceeding from the weak<g ref="char:EOLhyphen"/>neſs of naturall heat (ſometimes from the intem<g ref="char:EOLhyphen"/>perature of the Stomach, cauſed by the drinking of cold water, or other ſmall Liquor in extremity of heat, it wonderfully remedieth.</p>
+            <p>Pains in the ſides it takes away, by taking a little draught of it in Poſſet Drink, and Sweating; but theſe pains muſt ariſe from flatuoſity, not from the inflamation of the <hi>Pleura.</hi>
+            </p>
+            <p>If you have no appetite to eat, it uſually pro<g ref="char:EOLhyphen"/>vokes one.</p>
+            <p>If you have an appetite to eat and are faintiſh for want of ſomething to refreſh you, it is the beſt thing in the world to be taken, eſpecially if you be hot.</p>
+            <div type="part">
+               <head>Towards the prolonging of Life it is not a lit<g ref="char:EOLhyphen"/>tle conducing, if conſtantly taken in the Morning.</head>
+               <p>
+                  <hi>That great naturaliſt the L. Ver. Viſc. St.</hi> Alban ſayth, take his own words. <hi>Whatſoever is given with good ſucceſs in curing of Malignant and Peſtilen<g ref="char:EOLhyphen"/>tiall Diſeaſes;</hi> &amp;c. <hi>may very happily be transferred to prolongation of Life; and in another place, It is con<g ref="char:EOLhyphen"/>ſonant to reaſon that thoſe things which being taken in Cures, do defend and fortify the heart or more truly the ſpirits againſt poiſons, &amp;c. being tranſferred with judgement and choice into diet, ſhould have a good ef<g ref="char:EOLhyphen"/>fect in ſome ſort towards the prolonging of Life.</hi> pag. 190, <hi>&amp;c.</hi> Some of thoſe Cordial ſimples he mentions, as <hi>Lignum, Aloes, fol Indam, Mint, Saffron,
+<pb facs="tcp:110340:10"/>
+Cardaus, &amp;c.</hi> he propounds waters to be made of theſe, not ſuch as our phlegmatick common di<g ref="char:EOLhyphen"/>ſtill'd waters, but waters that are lively, and ſend<g ref="char:EOLhyphen"/>ing forth a Benign vapour; he objects againſt bur<g ref="char:EOLhyphen"/>ning waters of ſpirit of wine; Some may ſuppoſe that the ſpirit of this <hi>Elixyr,</hi> is too hot or burning, &amp; may yeild an heat preditory to the Spirits, which may be an objection againſt its continual uſe direct<g ref="char:EOLhyphen"/>ed, and adviſed, as conducing to long life; to which I anſwer, That as wine or any other cordial <hi>Liquor,</hi> if immoderately taken, doth prey upon the ſpirits, ſo this may; but if it be taken in the quantity advi<g ref="char:EOLhyphen"/>ſed (or in ſomewhat a greater, for the perſon that takes it may eaſily judge what will be convenient) every Morning, inſtead of preying upon the ſpi<g ref="char:EOLhyphen"/>rits, making them eager or thin, it ſhall notably condenſe or thicken them, for I do not intimate hereby the tranſferring of this <hi>Elixyr</hi> into a dyet, drinking of it as old women do Ale in the Chimney-corner, but only commend it me<g ref="char:EOLhyphen"/>dically, that is, a little quantity to be taken e<g ref="char:EOLhyphen"/>very Morning (inſtead of all other Mornings draughts) for the corroborating of the Spirits, the preventing of Infection, for the reſiſting of putre<g ref="char:EOLhyphen"/>faction, for the correcting of crudities that abound in the Stomach, I commend it as the moſt ſalubri<g ref="char:EOLhyphen"/>ous, or healthful thing that can be taken faſting in the Morning.</p>
+               <p n="1">1. By Cold and Phlegmatick Perſons, ſuch are moſt antient people that are ſtricken in years.</p>
+               <p n="2">2. By them who have Cold, wateriſh, and as they call them raw, Stomachs, ſuch are thoſe who have accuſtomed themſelves to drink ſtrong drinks in their younger days.</p>
+               <p n="3">
+                  <pb facs="tcp:110340:10"/>3. <hi>By them that abound with wind and crudities in their Stomach and Bowells.</hi>
+               </p>
+               <p n="4">4. <hi>By them who have no appetite through indigeſtion, from whence a ſource of weakneſſes and infirmities and Diſeaſes do ſpring, that being a lingring, ſometimes a ſudden death.</hi>
+               </p>
+               <p>By all generally that live a ſedentary life, whoſe callings require not laborious exerciſes; to ſuch, if the would live long, let me leave this cau<g ref="char:EOLhyphen"/>tion with the medical uſe of this <hi>Elixyr</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, thar is, <hi>Be moderate in eating and drinking,</hi> &amp;c. and I may warrant you as far as the Art of Phyſick will reach.</p>
+               <p>I ſay I commend a little quantity hereof (which you may gueſs by diſcretion, as half a Spoonful, or a little more) to be taken every Morning inſtead of all other liquors whatever, which you ſhould do well to take upon an empty Stomach.</p>
+               <p>About an hour after eat what is convenient for you.</p>
+            </div>
+            <div type="part">
+               <head>I ſhall laſt of all ſhew you of what admirable uſe it is of, to be uſed outwardly, and how to be applied.</head>
+               <p n="1">1. To any part bitten with any Venemous Crea<g ref="char:EOLhyphen"/>ture whatever, apply it upon a fine ragg or pledge at of lint dipt therein. But firſt of all let the <hi>Lady with her little ſharp inciſion knife</hi> make ſome little inciſi<g ref="char:EOLhyphen"/>ons on the place that is hurt till it bleed, then af<g ref="char:EOLhyphen"/>ter this manner apply a Cupping-glaſs; take the Glaſs, dry it, rub it that there be no moiſture in it, dry a little flax or tow at the fire, put it into the
+<pb facs="tcp:110340:11"/>
+Glaſs, and light it with a Candle or Paper; and as the flame is almoſt ready to go out put on the Glaſs and hold it a little hard too, untiil their ap<g ref="char:EOLhyphen"/>pear a ſwelling ariſe under the Glaſs; take away your hand and the Glaſs will ſtay on of its ſelf, there let it ſtick a quarter of an hour, remove the Glaſs and the blood, and waſh the inciſions and the hurt with this Liquor; dip lint therein, and ap<g ref="char:EOLhyphen"/>ply it, putting over it a warm Plaiſter; obſerve that wounds made by Venemous Creatures, muſt be kept open very long, and while any ill ſymp<g ref="char:EOLhyphen"/>tomes appear, uſe this as one of the Choyſeſt Me<g ref="char:EOLhyphen"/>dicines; when you have thus dreſt the wound, let the perſon wounded go to bed, and give him of this one full-Spoonfull at the leaſt, with as much of the Juyce of Citrons, Vervane, Rue, or Mugwort, and ſweat thereon; the next day (if you think the Venome in good meaſure drawn out, you need not apply the Cupping-Glaſs the ſecond time) did your lint again and apply it as at the firſt, and ſo till all be well. In want of Cupping-Glaſſes (tho' they are much more effectual) apply the vents of pullen, &amp;c.</p>
+               <p>To any part bitten or hurt with the teeth of A<g ref="char:EOLhyphen"/>nimalls, not Venemous, as Man, Horſe, Dog, (not mad) if the part hurt become of an evil colour and ſtincketh uſe this; many times it happens through a fall or blow upon the mouth, a Tooth may bruiſe the fleſh, if the breath ſmell or the place looke white, the place bruiſed corrupts; waſh it with this there, is nothing better.</p>
+               <p>To any part that is gangreend apply it. That there is a gangrene in any part you may know it by
+<pb facs="tcp:110340:11"/>
+theſe ſignes, the place affected will become of an ill colour, blackiſh, look livid, ſometimes it will bliſter, as oftentimes in Hydropick Diſtempers, it will ſend forth an evill ſavour, if you prick it or touch it with the point of an inciſion knife, it will not bleed, nor is ſenſible of pain. Let the Lady take her inciſion knife, and make ſome inciſions in the place till it bleed, and the part ſenſible of ſmart, dip a fine ragg, (lint is better) in this <hi>Elixyr</hi> a very little warmed, and apply it with a warm Plaiſter over it; do this once in twelve hours; if af<g ref="char:EOLhyphen"/>ter ſome few applications you ſee a ſeparation or diviſion betwixt the ſound and the unſound, or dead part that is gangreend, health and cure may be pro<g ref="char:EOLhyphen"/>miſed; uſe this until the black and ſtincking fleſh be wholly removed, then to your own ſalve again to skin it up.</p>
+               <p>To any ſore that looks blackiſh and ſtincks it, may prevent a gangre'n, it will quickly correct its evil ſmell, if you waſh it therewith.</p>
+               <p>To ulcers in the mouth and throat, if they look white in the bottom, if not preceding from a vene<g ref="char:EOLhyphen"/>real cauſe, uſed by its ſelf it is effectual but if they do, then mix with it as much of the Oil of Vitriol as will render it notably tart, touch the Ulcers gently therewith.</p>
+               <p>To Impoſtumations in the mouth, after they are opened it cleanſeth and healeth them ſound,</p>
+               <p>To the Gums (if rotted with the Scurvy, ſtinck, and look ugly) lanced and waſhed therewith twice a day makes them perfectly well, and is the beſt thing can be uſed.</p>
+               <p>Into an hollow Tooth if it cauſe the breath to
+<pb facs="tcp:110340:12"/>
+ſmell, dip a little lint therein, and put it into the hollow, and it will preſerve the breath.</p>
+               <p>Into the Eares, when there is dulneſs, of Hear<g ref="char:EOLhyphen"/>ing and pain, if proceeding from a cold Cauſe, in<g ref="char:EOLhyphen"/>ſtill three or four drops, and ſtop them with Wool, Lint or Cotten, to keep out the Cold.</p>
+               <p>In all which Caſes, and many more herein not mentioned, if inwardly taken, or out<g ref="char:EOLhyphen"/>wardly applyed, 'tis a ſecond to none what<g ref="char:EOLhyphen"/>ever.</p>
+               <p>To conclude; After a man hath ſpent himſelf with hard labour, whether of mind or body, weary with travelling, ſpent with heat, or any otherways debilitated, let him take but a little of this, and it cannot be Imagined how it will raiſe up his ſpirits, almoſt to admiration.</p>
+               <p>It is therefore of moſt neceſſary uſe to be at hand upon all occaſions, and not amiſs to carry a little glaſs with you in your pocket when you tra<g ref="char:EOLhyphen"/>vail, and before you eat or drink, if you be hot, faint, tired, or any way indiſpoſed, I commend it as the beſt, and trueſt Cordial you can take.</p>
+               <p>Note, That its vertue never abates by keeping.</p>
+               <p>Note, If any Glaſs be not full, or one fuller then the other, it is not that it wants its juſt quantity, but becauſe the Glaſſes cannot be equally fixed.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="stationer_to_the_reader">
+            <pb facs="tcp:110340:12"/>
+            <head>The Stationer to the Reader.</head>
+            <p>THe Authour hath attributed many, (and not un<g ref="char:EOLhyphen"/>derſerved) vertues to his <hi>Univerſal Elixyr</hi> which are confirmed by ſeveral that have made uſe thereof, and no faults I have eſpied but one (which I thought good to publiſh for Information of the people that is, it cannot be bad without mony; yet the price is inconſiderable in regard of its worth: You may have it at the Grey-hound in St. <hi>Pauls-Church-Yard</hi> at a Stationers ſhop ready put up in Glaſſes containing about five Ounces, for 2 s. 6 d.  a Glaſs.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="advert">
+            <pb facs="tcp:110340:13"/>
+            <head>Theſe things following, are ſold likewiſe at the Grey-hound in St. <hi>Pauls-Church-Yard.</hi> And by <hi>Wil<g ref="char:EOLhyphen"/>liam Terreweſt,</hi> Bookſeller in <hi>Oundle</hi> in <hi>Nor<g ref="char:EOLhyphen"/>thamptonſhire.</hi>
+            </head>
+            <p>
+               <hi>POmanders,</hi> (to be ſmelt to) to prevent the In<g ref="char:EOLhyphen"/>fection of the Plague, prepar'd according to the Advice of the Colledge of Phyſitians; And are to be ſold at the Sign of the <hi>Grey-Hound</hi> in St. <hi>Pauls-Church-Yard;</hi> the price is one ſhilling.</p>
+            <p>Dr. SEE'S <hi>Internal Balſom,</hi> at 5 <hi>s.</hi> a whole Box, and 2 <hi>s.</hi> 6 <hi>d.</hi>  half a Box, with a Book of Di<g ref="char:EOLhyphen"/>rections how to uſe it.</p>
+            <p>Dr. MAYS Lozanges, againſt Coughs, and Conſumptions, the beſt for that kind as ever was yet made, at 2 <hi>s.</hi>  6 <hi>d.</hi> the paper, each paper being a quarter of a pound.</p>
+            <pb facs="tcp:110340:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
